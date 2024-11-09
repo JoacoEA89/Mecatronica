@@ -1,0 +1,11 @@
+Componentes del prototipo:
+  - Sensores de presión (piezoeléctricos).
+  - Motor Stepper Nema 17.
+  - Plataforma base temporal de madera.
+  - Impresiones 3D para el griper y sistema piñon-cremallera.
+
+Componentes producto final:
+  - Antena y lector Rfid
+  - Gripper completo (mayor cantidad de dedos y detalles)
+  - Plataforma final del auto mecanizada en aluminio o aluminio compuesto.
+  - Motores DC (idealmente, pero podría no ser posible en el tiempo disponible)
