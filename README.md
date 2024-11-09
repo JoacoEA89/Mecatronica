@@ -1,6 +1,6 @@
-Irma Scheihing
-Joaquín Erribarren
-Matias Latorre
+Irma Scheihing,
+Joaquín Erribarren,
+Matias Latorre.
 
 Este proyecto tiene como objetivo innovar en la industria del atletismo, particularmente en los pequeños autos a control remoto utilizados para buscar
 y devolver los implementos que son utilizados en las competencias. Se enfocará en la prueba de lanzamiento de disco, en la cual los atletas suelen lanzar 
